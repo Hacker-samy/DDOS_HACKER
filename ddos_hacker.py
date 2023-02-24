@@ -2,14 +2,14 @@ import time
 import socket
 import sys
 import _thread
-print("<=###### DDOS_KAKA ######=>")
+print("###### DDOS_KAKA ######")
 print("soroush : @hacka")
-print("<==# hackeran kolah sefid #==>")
-print("<==# hacker samy #==>")
-print("<==#     ddos_kaka #==>")
-print("<==# # ddos_kaka #==>")
-print("<==# # hacker samy# #==>")
-print("##<<<hacker samy>>>##")
+print("<=# hackeran kolah sefid #=>")
+print("<=# hacker samy #=>")
+print("<=#     ddos_kaka #=>")
+print("<=# # ddos_kaka #=>")
+print("<=# # hacker samy# #=>")
+print("##<<<+hacker samy+>>>##")
 site = input("Enter your site url => ")
 thread_count = input("Enter your thread => ")
 ip = socket.gethostbyname(site)
