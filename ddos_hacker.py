@@ -2,8 +2,14 @@ import time
 import socket
 import sys
 import _thread
-print("###### DDOS_KAKA ######")
-print("soroush : @hacka")
+r='\033[1;31m'
+g='\033[32;1m' 
+y='\033[1;33m'
+w='\033[1;37m'
+b='\033[1;34m'
+p='\033[1;35m'
+{r} print("###### DDOS_KAKA ######")
+{w} print("soroush : @hacka")
 print("<=# hackeran kolah sefid #=>")
 print("<=# hacker samy #=>")
 print("<=#     ddos_kaka #=>")
