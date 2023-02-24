@@ -8,8 +8,8 @@ y='\033[1;33m'
 w='\033[1;37m'
 b='\033[1;34m'
 p='\033[1;35m'
-{r} print("###### DDOS_KAKA ######")
-{w} print("soroush : @hacka")
+  {r} print("###### DDOS_KAKA ######")
+  {w} print("soroush : @hacka")
 print("<=# hackeran kolah sefid #=>")
 print("<=# hacker samy #=>")
 print("<=#     ddos_kaka #=>")
